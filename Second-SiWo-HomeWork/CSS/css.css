@@ -1,0 +1,63 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Arial Rounded MT Bold";
+}
+
+#exam {
+    margin: 5% 10%;
+}
+
+#exam input {
+    border: 2px solid gainsboro;
+    height: 20px;
+    border-radius: 5px;
+}
+
+#title h2 {
+    margin-top: -15px;
+    text-align: center;
+}
+
+#info #declare, #write {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+}
+
+#info #declare span, #write span {
+    margin-right: 80px;
+}
+
+#content .topic {
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#content .topic h4 {
+    padding: 13px;
+    margin-top: 0px;
+    background-color: lightgrey;
+}
+
+#content .question {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+#content #forth img {
+    width: 20px;
+    height: 20px;
+}
+#content #submit input{
+    border: 1px solid lightblue;
+    background-color: lightblue;
+    height: 30px;
+    width: 80px;
+    margin-left: 50%;
+}
+
+
+
