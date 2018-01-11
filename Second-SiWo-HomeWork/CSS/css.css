@@ -52,10 +52,11 @@ body {
     height: 20px;
 }
 #content #submit input{
-    border: 1px solid lightblue;
-    background-color: lightblue;
-    height: 30px;
-    width: 80px;
+    border: 1px solid limegreen;
+    background-color: limegreen;
+    color: white;
+    height: 40px;
+    width: 100px;
     margin-left: 50%;
 }
 
