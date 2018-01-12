@@ -1,0 +1,104 @@
+#content {
+    width: 1440px;
+    background-color: #fcf9f4;
+}
+
+#content .nav {
+    height: 100px;
+}
+
+#logo {
+    display: inline-block;
+    float: left;
+    margin: 10px 40px 0px 130px;
+}
+
+#logo img {
+    height: 80px;
+
+}
+
+.nav .nav-item {
+    display: inline-block;
+    margin: 40px;
+}
+
+.nav-item ul {
+    list-style-type: none;
+}
+
+.nav-item ul li {
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 20px;
+    float: right;
+}
+
+.nav .line {
+    width: 2px;
+    height: 100%;
+    background-color: #eae7e2;
+    display: inline-block;
+}
+
+.button {
+    display: inline-block;
+    float: right;
+    margin: 30px 130px 0px 0px
+}
+
+.button button {
+    width: 150px;
+    height: 40px;
+    color: #4d4e59;
+    background-color: #dad7d2;
+    border: 1px solid #dad7d2;
+    border-radius: 4px;
+}
+
+.second-content {
+    height: 794px;
+}
+
+.second-content .background-img {
+    height: 102%;
+    background-color: #FFF;
+    background-image: url("./images/hero.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+}
+
+.background-img .text {
+    color: #FFFFFF;
+    font-family: "Amatica SC";
+    font-size: 60px;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.button-group {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.button-group .button {
+    display: inline-block;
+    width: 270px;
+    height: 60px;
+    font-size: 24px;
+    color: #FFF;
+    border: 1px solid ghostwhite;
+    float: left;
+}
+
+.button-group .student {
+    margin-left: 400px;
+    line-height: 50px;
+}
+
+.button-group .tutor {
+    opacity: 0.4;
+    background-color: #FFF;
+    color: black;
+}
