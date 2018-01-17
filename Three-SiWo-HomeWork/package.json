@@ -1,0 +1,15 @@
+{
+  "name": "three-siwo-homework",
+  "version": "1.0.0",
+  "description": "开发一个简单的猜数字游戏，基本业务逻辑如下：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "mock-stdin": "^0.3.1"
+  }
+}
